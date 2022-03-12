@@ -5,7 +5,7 @@ Tugas Internal Workshop NWDC #2 : Membuat landing page dengan framework CSS
 Website ini dibuat dengan framework css Bootstrap dan sedikit vanilla css.
 
 
-Hosted by Github Pages [here](https://ahmadzaki2975.github.io/tugas-1-nwdc-2022/)
+Hosted by Github Pages [here](https://ahmadzaki2975.github.io/tugas-2-nwdc-2022/)
 
 Based on [Apex Legends](https://www.ea.com/en-gb/games/apex-legends)' landing page.
 
