@@ -29,6 +29,9 @@ a {
   font-size: 1.5rem;
 }
 
+.navbar2 .nav-item:hover {
+  color: red;
+}
 .navbar i {
   color: white;
 }
