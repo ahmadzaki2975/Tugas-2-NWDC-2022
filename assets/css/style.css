@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'Duke Hill';
+  src: url(../font/DukeFill_web.woff);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navbar1 {
+  background-color: #161616 !important;
+  height: 40px !important;
+}
+
+.navbar2 {
+  background-color: black !important;
+}
+
+.navbar2 .nav-item {
+  background-color: transparent !important;
+  color: white ;
+  font-family: 'Duke Hill';
+  font-size: 1.5rem;
+}
+
+.navbar i {
+  color: white;
+}
+
+.hero {
+  background-image: url(../images/apex-hero-large-defiance.jpg);
+  width: 100%;
+  aspect-ratio: 16/9;
+  background-size: cover;
+}
+
+.hero .card {
+  transform: translate(-55%, -10%);
+  width: 500px !important;
+  height: fit-content;
+  background-color: transparent;
+  border: none;
+}
+
+.hero .card img {
+  width: 235px;
+}
+
+.her0 .card .card-btn-container .btn{
+  background-color: transparent;
+}
