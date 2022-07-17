@@ -1,4 +1,4 @@
-# tugas-2-nwdc-2022
+# Tugas-2-NWDC-2022
 
 Tugas Internal Workshop NWDC #2 : Membuat landing page dengan framework CSS
 
